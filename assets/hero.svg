@@ -25,6 +25,6 @@
       <path d="M33 54 86 214 151 96 212 214 278 54" fill="none" stroke="#FFE0BE" stroke-opacity=".35" stroke-width="2"/>
       <circle cx="151" cy="96" r="9" fill="#0B1220" stroke="#F8B68D" stroke-width="5"/>
     </g>
-    <text x="1044" y="364" fill="#8FA9BB" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">EST. 2026</text>
+    <text x="946" y="364" fill="#8FA9BB" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">BUILD / SHARE / ITERATE</text>
   </g>
 </svg>
